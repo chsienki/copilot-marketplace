@@ -12,7 +12,6 @@
     {
       "name": "revue",
       "description": "Local web-based git diff reviewer with inline comments and Copilot integration",
-      "version": "0.2.0",
       "homepage": "https://github.com/chsienki/revue",
       "repository": "https://github.com/chsienki/revue",
       "license": "MIT",
@@ -24,7 +23,6 @@
     {
       "name": "task-context",
       "description": "Load and manage task contexts from multiple local repos for non-coding tasks",
-      "version": "1.0.0",
       "homepage": "https://github.com/chsienki/copilot-context",
       "repository": "https://github.com/chsienki/copilot-context",
       "license": "MIT",
