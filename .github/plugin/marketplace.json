@@ -23,12 +23,12 @@
     {
       "name": "task-context",
       "description": "Load and manage task contexts from multiple local repos for non-coding tasks",
-      "homepage": "https://github.com/chsienki/copilot-context",
-      "repository": "https://github.com/chsienki/copilot-context",
+      "homepage": "https://github.com/chsienki/task-context",
+      "repository": "https://github.com/chsienki/task-context",
       "license": "MIT",
       "source": {
         "source": "github",
-        "repo": "chsienki/copilot-context"
+        "repo": "chsienki/task-context"
       }
     }
   ]

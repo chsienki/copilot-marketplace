@@ -13,7 +13,7 @@ copilot plugin marketplace add chsienki/copilot-marketplace
 | Plugin | Description |
 |--------|-------------|
 | [revue](https://github.com/chsienki/revue) | Local web-based git diff reviewer with inline comments and Copilot integration |
-| [task-context](https://github.com/chsienki/copilot-context) | Load and manage task contexts from multiple local repos |
+| [task-context](https://github.com/chsienki/task-context) | Load and manage task contexts from multiple local repos |
 
 ## Install a plugin
 
